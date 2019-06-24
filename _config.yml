@@ -1,1 +1,25 @@
+##
+##    This file is use to customize my webpage
+##
+
+# -- Name of site (will be displayed in the header)
+name: Rolando J. Acosta
+
+# -- Short Description (also displayed in the header)
+description: PhD Student in Biostatistics at Harvard University
+
+# -- Not sure what this is for
+#avatar: 
+
+# -- Including other ways of contacting me
+footer-links:
+  email: roa310@g.harvard.edu 
+  facebook:
+  github: RJNunez
+  instagram:
+  linkedIn: rolando-j-acosta-nuñez-562330b3
+  twitter: 
+  medium: 
+
+# -- Theme for the website
 theme: jekyll-theme-slate
