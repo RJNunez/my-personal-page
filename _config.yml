@@ -3,6 +3,7 @@
 ##
 
 # -- Name of site (will be displayed in the header)
+name: Rolando J. Acosta
 title: Rolando J. Acosta
 
 # -- Short Description (also displayed in the header)
@@ -20,6 +21,9 @@ footer-links:
   linkedIn: rolando-j-acosta-nuñez-562330b3
   twitter: 
   medium: 
+
+# -- Not sure what this is for
+markdown: kramdown
 
 # -- Theme for the website
 theme: jekyll-theme-slate
