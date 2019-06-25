@@ -2,6 +2,8 @@
 
 Actualmente estoy en el 3er año de un doctorado en Bioestadistica en la Universidad de Harvard. El departamento de bioestadistica de Harvard se encuentra en la Escuela de Salud Pública T.H. Chan. Soy natural de San Juan, Puerto Rico, pero me crié en el pueblo de Carolina. 
 
+I am a third year PhD student in Biostatistics at the Harvard T.H. Chan School of Public Health. I was born in San Juan, Puerto Rico, and raised in Carolina, a town next to San Juan....
+
 You can use the [editor on GitHub](https://github.com/RJNunez/my-personal-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
